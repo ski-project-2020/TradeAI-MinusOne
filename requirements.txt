@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+networkx
+pyvis
+textblob
+vaderSentiment
+faker
